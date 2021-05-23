@@ -1,0 +1,42 @@
+<table id="example" class="display" style="width: 100%">
+  <thead>
+    <tr>
+      <th scope="col">Name</th>
+      <th scope="col">Email</th>
+      <th scope="col">Tel</th>
+      <th scope="col">Country</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Airi Satou</td>
+      <td>airi@yahoo.co.jp</td>
+      <td>81123456789</td>
+      <td>Japan</td>
+    </tr>
+    <tr>
+      <td>Sakura Yamamoto</td>
+      <td>sakura_y@gmail.com</td>
+      <td>81987654321</td>
+      <td>Japan</td>
+    </tr>
+    <tr>
+      <td>Ashton Wagner</td>
+      <td>awanger@qq.com</td>
+      <td>86879645213</td>
+      <td>China</td>
+    </tr>
+    <tr>
+      <td>Bruno Nash</td>
+      <td>bn@london.com.uk</td>
+      <td>44456789123</td>
+      <td>UK</td>
+    </tr>
+    <tr>
+      <td>Jamie Wiliamson</td>
+      <td>jw@abc.com.au</td>
+      <td>61123456789</td>
+      <td>Australia</td>
+    </tr>
+  </tbody>
+</table>

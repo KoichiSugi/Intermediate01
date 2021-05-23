@@ -1,0 +1,9 @@
+form .error {
+  color: #ff0000;
+}
+h1 {
+  font-family: "Helvetica Neue";
+  font-size: 60px;
+  color: grey;
+  text-align: center;
+}
