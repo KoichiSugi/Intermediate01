@@ -1,6 +1,6 @@
 function viewData() {
   $.ajax({
-    url: "../q2.tabledata.txt",
+    url: "q2.tabledata.txt",
     method: "GET",
   }).done(function (data) {
     $("#example")
