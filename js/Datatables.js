@@ -1,6 +1,6 @@
 function viewData() {
   $.ajax({
-    url: "https://koichisugi.github.io/intermediate02-datatables/q2.tabledata.txt",
+    url: "https://koichisugi.github.io/create-datatable-jQuery/q2.tabledata.txt",
     method: "GET",
   }).done(function (data) {
     $("#example")
